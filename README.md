@@ -3,6 +3,17 @@
 - 🌱 I’m currently learning Python path in SoftUni (Software University) - Bulgaria and studying Telecommunication Engineering in Technical University - Sofia.
 
 
+### 📖 My current certificates:
+
+["Programing Basics Python"](https://softuni.bg/certificates/details/121362/29d6dece)
+
+["Programing Fundamentals with Python"](https://softuni.bg/certificates/details/129032/d96f87a9)
+
+["Python Advanced"](https://softuni.bg/certificates/details/135986/1330bd05)
+
+Еxpect more in the near future!😄
+
+
 ### 👨‍💻 Technologies & Tools:
 
 
