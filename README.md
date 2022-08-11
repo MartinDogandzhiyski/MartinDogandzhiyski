@@ -7,7 +7,7 @@
 
 
 ### Programming:
-![Python](![image](https://user-images.githubusercontent.com/94994594/184220699-a56858fa-5433-4656-b147-12c32d4e2528.png)
+![Python]((https://user-images.githubusercontent.com/94994594/184220699-a56858fa-5433-4656-b147-12c32d4e2528.png)
 
 ### IDE's:
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -18,7 +18,7 @@
 
 ### Frequently used:
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Microsoft Excel]!([image](https://user-images.githubusercontent.com/94994594/184220948-486e5411-7388-41d8-aae6-7c32ba339f5a.png))
+  ![Microsoft Excel]!(https://user-images.githubusercontent.com/94994594/184220948-486e5411-7388-41d8-aae6-7c32ba339f5a.png)
 
 
 ### 💬 You can find me on:
