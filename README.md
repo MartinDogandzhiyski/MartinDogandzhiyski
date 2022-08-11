@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ### IDE's:
-  ![Visual Studio](https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Pycharm%20Proffesional-0078d7.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
 
 ### OS:
