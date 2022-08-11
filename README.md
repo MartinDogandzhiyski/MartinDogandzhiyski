@@ -11,7 +11,7 @@
 
 ["Python Advanced"](https://softuni.bg/certificates/details/135986/1330bd05)
 
-Еxpect more in the near future!😄
+Soon there will be more! 👌🏻
 
 
 ### 👨‍💻 Technologies & Tools:
