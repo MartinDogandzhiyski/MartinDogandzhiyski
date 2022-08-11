@@ -18,7 +18,7 @@
 
 ### Frequently used:
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Microsoft Excel]!((https://img.shields.io/badge/Microsoft_Excel-D83B01?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-D83B01?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 ### 💬 You can find me on:
