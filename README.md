@@ -2,6 +2,7 @@
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m currently learning Python path in SoftUni (Software University) - Bulgaria and studying Telecommunication Engineering in Technical University - Sofia.
 
+____________________________________________________________________________________________________
 
 ### 📖 My current certificates:
 
@@ -13,6 +14,7 @@
 
 Soon there will be more! 👌
 
+____________________________________________________________________________________________________
 
 ### 👨‍💻 Technologies & Tools:
 
@@ -30,7 +32,8 @@ Soon there will be more! 👌
 ### Also using often:
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-D83B01?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+  
+____________________________________________________________________________________________________
 
 ### 🔗 Another links to my acc's:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-dogandzhiyski-838b6b230/)
