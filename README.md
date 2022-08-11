@@ -21,7 +21,7 @@
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-D83B01?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
-### 💬 Another links to my acc's:
+### 🔗 Another links to my acc's:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-dogandzhiyski-838b6b230/)
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - martindogandzhiyski@gmail.com
