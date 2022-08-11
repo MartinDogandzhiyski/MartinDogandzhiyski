@@ -7,7 +7,7 @@
 
 
 ### Programming:
-![Python]((![image](https://user-images.githubusercontent.com/94994594/184221438-5deb016f-172e-4b6b-a514-17dd890df390.png))
+![Python](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ### IDE's:
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
