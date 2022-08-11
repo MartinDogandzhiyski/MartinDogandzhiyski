@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Python path in SoftUni (Software University) - Bulgaria and studying Telecommunication Engineering in Technical University - Sofia.
 
 
-### 🔧 Technologies & Tools:
+### 💻 Technologies & Tools:
 
 
-### Programming:
+### 👨‍💻 Programming:
 ![Python](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=Python&logoColor=white)
 
 ### IDE's:
