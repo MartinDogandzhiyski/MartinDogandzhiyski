@@ -11,6 +11,7 @@ ________________________________________________________________________________
 ["Programing Fundamentals with Python"](https://softuni.bg/certificates/details/129032/d96f87a9)
 
 ["Python Advanced"](https://softuni.bg/certificates/details/135986/1330bd05)
+["Python OOP"](https://softuni.bg/certificates/details/140965/c42f9150)
 
 Soon there will be more! 👌
 
