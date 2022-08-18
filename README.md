@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 
 ### Programming:
-![Python](https://img.shields.io/badge/Python-%23239120.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23239120.svg?style=for-the-badge&logo=Python&logoColor=yellow)
 
 ### IDE's:
   ![Visual Studio](https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
