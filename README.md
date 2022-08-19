@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Martin Dogandzhiyski
+### 👋 Hi, I’m Martin Dogandzhiyski!
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m currently learning Python path in SoftUni (Software University) - Bulgaria and studying Telecommunication Engineering in Technical University - Sofia.
 
