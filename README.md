@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Martin Dogandzhiyski!
 - 👀 I’m interested in programming and software engineering.
 - 🌱 I’m currently learning Python path in SoftUni (Software University) - Bulgaria and studying Telecommunication Engineering in Technical University of Sofia.
-
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=KristyanVasilev)
 ____________________________________________________________________________________________________
 
 ### 📖 My current certificates:
