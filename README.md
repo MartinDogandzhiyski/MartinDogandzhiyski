@@ -28,6 +28,9 @@ ________________________________________________________________________________
 ### Programming:
 ![Python](https://img.shields.io/badge/Python-%23239120.svg?style=for-the-badge&logo=Python&logoColor=yellow)
 ![image](https://img.shields.io/badge/Django-239120?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### IDE's:
   ![Visual Studio](https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
