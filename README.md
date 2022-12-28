@@ -6,13 +6,17 @@ ________________________________________________________________________________
 
 ### 📖 My current certificates:
 
-["Programing Basics Python"](https://softuni.bg/certificates/details/121362/29d6dece)
+["Programming Basics Python"](https://softuni.bg/certificates/details/121362/29d6dece)
 
-["Programing Fundamentals with Python"](https://softuni.bg/certificates/details/129032/d96f87a9)
+["Programming Fundamentals with Python"](https://softuni.bg/certificates/details/129032/d96f87a9)
 
 ["Python Advanced"](https://softuni.bg/certificates/details/135986/1330bd05)
 
 ["Python OOP"](https://softuni.bg/certificates/details/140965/c42f9150)
+
+["Python Web Basics"](https://softuni.bg/certificates/details/121362/29d6dece)
+
+["Python Web Framework"](https://softuni.bg/certificates/details/152973/0611b45b)
 
 Soon there will be more!!! 👌
 
