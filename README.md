@@ -33,8 +33,10 @@ ________________________________________________________________________________
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### IDE's:
-  ![Visual Studio](https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Pycharm%20Proffesional-0078d7.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
+  ![Pycharm](https://img.shields.io/badge/Pycharm-5C2D91.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
+  ![Pycharm Proffesional](https://img.shields.io/badge/Pycharm%20Proffesional-0078d7.svg?style=for-the-badge&logo=Pycharm&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### OS:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
