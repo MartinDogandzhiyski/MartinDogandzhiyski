@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 ["Python Web Framework"](https://softuni.bg/certificates/details/152973/0611b45b)
 
+["JS Advanced"](https://softuni.bg/certificates/details/160250/6c0a037f)
+
 Soon there will be more!!! 👌
 
 ____________________________________________________________________________________________________
