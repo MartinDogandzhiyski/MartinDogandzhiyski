@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ["Python OOP"](https://softuni.bg/certificates/details/140965/c42f9150)
 
-["Python Web Basics"](https://softuni.bg/certificates/details/121362/29d6dece)
+["Python Web Basics"](https://softuni.bg/certificates/details/147080/39108d8e)
 
 ["Python Web Framework"](https://softuni.bg/certificates/details/152973/0611b45b)
 
