@@ -24,6 +24,10 @@ ________________________________________________________________________________
 
 Soon there will be more!!! 👌
 
+### 💡 Currently learning:
+
+[DevOps](https://softuni.bg/modules/133/devops/1388)
+
 ____________________________________________________________________________________________________
 
 ### 👨‍💻 Technologies & Tools:
@@ -44,10 +48,10 @@ ________________________________________________________________________________
 
 ### OS:
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Also using often:
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-D83B01?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   
 ____________________________________________________________________________________________________
 
