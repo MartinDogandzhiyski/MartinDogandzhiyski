@@ -56,9 +56,12 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________
 
 ### 🔗 Another links to my acc's:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martin-dogandzhiyski-838b6b230/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/martin-dogandzhiyski-838b6b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyuboslav-mihalchev-2a3300232" height="30" width="40" /></a>
+<a href="https://discord.gg/Martin0219#1130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="l.mihalchev#0736" height="30" width="40" /></a>
+</p>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - martindogandzhiyski@gmail.com
 
-![Discord](https://img.shields.io/badge/%3CDiscord%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) - Martin Dogandzhiyski #1130
 
