@@ -4,7 +4,8 @@
 
 ____________________________________________________________________________________________________
 
-### 📖 My current certificates:
+### 📖 My diploma and certificates:
+![Diploma for Python Web Developer](https://github.com/MartinDogandzhiyski/MartinDogandzhiyski/assets/94994594/8a3e119d-2986-40d9-8db8-a3243519458d)
 
 ["Programming Basics Python"](https://softuni.bg/certificates/details/121362/29d6dece)
 
