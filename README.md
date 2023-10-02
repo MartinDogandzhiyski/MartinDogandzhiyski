@@ -22,6 +22,8 @@ ________________________________________________________________________________
 
 ["JS Applications"](https://softuni.bg/certificates/details/167859/72354a14)
 
+["Containers and Cloud"](https://softuni.bg/certificates/details/174386/5f8b0442)
+
 Soon there will be more!!! 👌
 
 ### 💡 Currently learning:
