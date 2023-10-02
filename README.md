@@ -5,7 +5,9 @@
 ____________________________________________________________________________________________________
 
 ### 📖 My diploma and certificates:
-![Diploma for Python Web Developer](https://github.com/MartinDogandzhiyski/MartinDogandzhiyski/assets/94994594/8a3e119d-2986-40d9-8db8-a3243519458d)
+<img width="252" alt="Screenshot 2023-10-02 114935" src="https://github.com/MartinDogandzhiyski/MartinDogandzhiyski/assets/94994594/6975c734-b392-48fa-86c7-63aabf639d57">
+<img width="251" alt="Screenshot 2023-10-02 114950" src="https://github.com/MartinDogandzhiyski/MartinDogandzhiyski/assets/94994594/a3b65756-27af-416a-9ada-dac096ef849c">
+
 
 ["Programming Basics Python"](https://softuni.bg/certificates/details/121362/29d6dece)
 
